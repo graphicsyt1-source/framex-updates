@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.5.0/FrameX_Creator_v5.apk",
-  "sha256": "2d2db662d16d1c74025fc02112d249a01c774cf775c2a6411a980a14e7db87a3",
-  "sizeBytes": 282555,
-  "notes": "Creator setup: enter your name and talent, then continue to the FrameX loading screen. Automatic updates retained.",
   "packageName": "com.framex.editor.ultra",
-  "channel": "tester"
+  "channel": "tester",
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.6.0/FrameX_Workspace_v6.apk",
+  "sha256": "22cb10adeeb17d512d5937c4a60007705a37d66d9dc3f74022a4c9b822d4b12b",
+  "sizeBytes": 304399,
+  "notes": "FrameX v6: creator image, brighter Continue, short loading transition, creator workspace Home, real project creation and saved recent projects. Original secure updater retained."
 }
