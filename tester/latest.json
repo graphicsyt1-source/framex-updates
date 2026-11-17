@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.8.0/FrameX_Projects_v8.apk",
-  "sha256": "10ae7b8be9d5fa5b368c1f6d6929eebca199c969dca2ad8f8dc55767c53f45ba",
-  "sizeBytes": 328011,
-  "notes": "FrameX v8: original grouped Projects browser, linked Assets view, real search/sorting, three-dot mini menu for project JSON export, duplication, rename, save as template, and confirmed deletion. No automatic opening when a project card is touched. Existing FrameX splash, creator, templates, navigation, and OTA preserved."
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.9.0/FrameX_Projects_Compact_v9.apk",
+  "sha256": "ab71f37607c92e7f30dbd5ce10c1dee339a9d1f1849e8a2b16e82b639225c6b9",
+  "sizeBytes": 327991,
+  "notes": "FrameX v9: slightly more compact Projects cards. Existing browse-only behavior, date grouping, linked Assets, search/sort, three-dot popup, project actions, splash, navigation, templates and OTA preserved."
 }
