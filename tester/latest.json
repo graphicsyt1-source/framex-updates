@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 10,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.10.0/FrameX_LiquidGlass_v10.apk",
-  "sha256": "831df9a91c877e5197ed4bcbc138ca4297d033756c947e0a614992eacdf9af46",
-  "sizeBytes": 329795,
-  "notes": "FrameX v10: original glass-inspired FrameX creator shell with translucent light-catching navigation, cards, panels and primary actions; slightly smaller Projects cards. Existing projects and editor/rendering engine are unchanged."
+  "versionCode": 11,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.11.0/FrameX_OrangeGlass_Toggle_v11.apk",
+  "sha256": "210216b3df82278fb549bb6f96689b2c150686599602abbdcb809733f85adece",
+  "sizeBytes": 332587,
+  "notes": "FrameX v11: classic black/copper palette with persistent Liquid Glass toggle in navigation. Enabled: lightly orange-tinted frosted surfaces with deep orange primary buttons. Disabled: familiar classic FrameX appearance. Existing projects and editor/rendering engine unchanged."
 }
