@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.7.0/FrameX_Navigation_v7.apk",
-  "sha256": "6ad87d45e0456981def0d382ac1c25ae0c9c85e3c537bb507592a9faaac1e4e2",
-  "sizeBytes": 318127,
-  "notes": "FrameX v7: redesigned five-tab Home, original vector icons, animated creator menu, functional offline project templates, community links, improved navigation and touch feedback. Splash, creator identity, projects and OTA preserved."
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.8.0/FrameX_Projects_v8.apk",
+  "sha256": "10ae7b8be9d5fa5b368c1f6d6929eebca199c969dca2ad8f8dc55767c53f45ba",
+  "sizeBytes": 328011,
+  "notes": "FrameX v8: original grouped Projects browser, linked Assets view, real search/sorting, three-dot mini menu for project JSON export, duplication, rename, save as template, and confirmed deletion. No automatic opening when a project card is touched. Existing FrameX splash, creator, templates, navigation, and OTA preserved."
 }
