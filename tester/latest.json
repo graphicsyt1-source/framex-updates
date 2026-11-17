@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 12,
-  "versionName": "0.12.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.12.0/FrameX_DrawerFix_v12.apk",
-  "sha256": "e510764346dc5a109e2a67779373f32be46cb815d07efac219ca983d2fb315ac",
-  "sizeBytes": 333163,
-  "notes": "FrameX v12: drawer logo and brand header aligned; menu has a legible opaque backing; app bottom navigation hidden until the drawer closes. Warm orange glass preference and existing projects/editor functionality unchanged."
+  "versionCode": 13,
+  "versionName": "0.13.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.13.0/FrameX_About_v13.apk",
+  "sha256": "a4abf94cad77eff35945c5e631ba97698f31ec8fcb0dd13cc09ddf2ef6d5e6a6",
+  "sizeBytes": 339723,
+  "notes": "FrameX v13: premium About page with verified development milestones, locally maintained release notes, channel-aware update information, official community links and original dark copper glass styling. Existing editor, projects and OTA security preserved."
 }
