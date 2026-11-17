@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 11,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.11.0/FrameX_OrangeGlass_Toggle_v11.apk",
-  "sha256": "210216b3df82278fb549bb6f96689b2c150686599602abbdcb809733f85adece",
-  "sizeBytes": 332587,
-  "notes": "FrameX v11: classic black/copper palette with persistent Liquid Glass toggle in navigation. Enabled: lightly orange-tinted frosted surfaces with deep orange primary buttons. Disabled: familiar classic FrameX appearance. Existing projects and editor/rendering engine unchanged."
+  "versionCode": 12,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.12.0/FrameX_DrawerFix_v12.apk",
+  "sha256": "e510764346dc5a109e2a67779373f32be46cb815d07efac219ca983d2fb315ac",
+  "sizeBytes": 333163,
+  "notes": "FrameX v12: drawer logo and brand header aligned; menu has a legible opaque backing; app bottom navigation hidden until the drawer closes. Warm orange glass preference and existing projects/editor functionality unchanged."
 }
