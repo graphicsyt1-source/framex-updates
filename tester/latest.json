@@ -4,5 +4,7 @@
   "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.5.0/FrameX_Creator_v5.apk",
   "sha256": "2d2db662d16d1c74025fc02112d249a01c774cf775c2a6411a980a14e7db87a3",
   "sizeBytes": 282555,
-  "notes": "Creator setup: enter your name and talent, then continue to the FrameX loading screen. Automatic updates retained."
+  "notes": "Creator setup: enter your name and talent, then continue to the FrameX loading screen. Automatic updates retained.",
+  "packageName": "com.framex.editor.ultra",
+  "channel": "tester"
 }
