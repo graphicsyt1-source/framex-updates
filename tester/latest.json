@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 6,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.6.0/FrameX_Workspace_v6.apk",
-  "sha256": "22cb10adeeb17d512d5937c4a60007705a37d66d9dc3f74022a4c9b822d4b12b",
-  "sizeBytes": 304399,
-  "notes": "FrameX v6: creator image, brighter Continue, short loading transition, creator workspace Home, real project creation and saved recent projects. Original secure updater retained."
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.7.0/FrameX_Navigation_v7.apk",
+  "sha256": "6ad87d45e0456981def0d382ac1c25ae0c9c85e3c537bb507592a9faaac1e4e2",
+  "sizeBytes": 318127,
+  "notes": "FrameX v7: redesigned five-tab Home, original vector icons, animated creator menu, functional offline project templates, community links, improved navigation and touch feedback. Splash, creator identity, projects and OTA preserved."
 }
