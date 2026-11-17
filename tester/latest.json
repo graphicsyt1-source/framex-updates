@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 9,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.9.0/FrameX_Projects_Compact_v9.apk",
-  "sha256": "ab71f37607c92e7f30dbd5ce10c1dee339a9d1f1849e8a2b16e82b639225c6b9",
-  "sizeBytes": 327991,
-  "notes": "FrameX v9: slightly more compact Projects cards. Existing browse-only behavior, date grouping, linked Assets, search/sort, three-dot popup, project actions, splash, navigation, templates and OTA preserved."
+  "versionCode": 10,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.10.0/FrameX_LiquidGlass_v10.apk",
+  "sha256": "831df9a91c877e5197ed4bcbc138ca4297d033756c947e0a614992eacdf9af46",
+  "sizeBytes": 329795,
+  "notes": "FrameX v10: original glass-inspired FrameX creator shell with translucent light-catching navigation, cards, panels and primary actions; slightly smaller Projects cards. Existing projects and editor/rendering engine are unchanged."
 }
