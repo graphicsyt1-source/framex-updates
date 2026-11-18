@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 19,
-  "versionName": "0.19.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.19.0/FrameX_Timeline_v19.apk",
-  "sha256": "e4cc46f11bf8821f46db613b2256cf065c3b5efd59f0b6999b944d8655ed1294",
-  "sizeBytes": 407047,
-  "notes": "FrameX v19: original timeline foundation, aspect-fit project canvas, clip editing and linked media; corrected microsecond timebase and Android AtomicFile recovery compilation. Full GPU compositing, effects, 3D and MP4 export are not included."
+  "versionCode": 20,
+  "versionName": "0.20.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.20.0/FrameX_UIPolish_v20.apk",
+  "sha256": "da6d0b249e9ee53c398f8e512ffe4ba50542222dc88110dd2ea6e2b5364332e3",
+  "sizeBytes": 407651,
+  "notes": "FrameX v20: fixes floating navigation overlap, compact Creator Profile and canvas selectors, shorter feedback action, and editable automatic project names. Editor, project data and original OTA unchanged."
 }
