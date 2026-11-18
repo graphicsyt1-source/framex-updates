@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 16,
-  "versionName": "0.16.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.16.0/FrameX_GlassSlide_v16.apk",
-  "sha256": "8487545d1b96f7000af8b5bd6093f0a8c8b80b2c3b11230db98cbf5eed051abc",
-  "sizeBytes": 498372,
-  "notes": "FrameX v16: compact-on-scroll warm glass navigation, spring/drag improvements, 44dp targets and reduced-motion fallback. Original editor/OTA/project data unchanged; live video refraction not included."
+  "versionCode": 18,
+  "versionName": "0.18.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.18.0/FrameX_LiquidGlassMotion_v18.apk",
+  "sha256": "25e391e77470e3e32e40e64faf513c485271c38698b3e1be20c5182474cd12de",
+  "sizeBytes": 505977,
+  "notes": "FrameX v18: original direction-aware page animations, staggered screen entrances, refined project popups and creator-logo reveal. Preserves FrameX Liquid Glass Slide v16/v17 navigation, project data and editor/OTA. No editor refraction or editor animation claimed."
 }
