@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 13,
-  "versionName": "0.13.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.13.0/FrameX_About_v13.apk",
-  "sha256": "a4abf94cad77eff35945c5e631ba97698f31ec8fcb0dd13cc09ddf2ef6d5e6a6",
-  "sizeBytes": 339723,
-  "notes": "FrameX v13: premium About page with verified development milestones, locally maintained release notes, channel-aware update information, official community links and original dark copper glass styling. Existing editor, projects and OTA security preserved."
+  "versionCode": 15,
+  "versionName": "0.15.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.15.0/FrameX_GlassMotion_v15.apk",
+  "sha256": "12fa438d3cb9bf26694e0975b3ef2a2a0d138ebad00ff1158cc9d9db2c18a838",
+  "sizeBytes": 492254,
+  "notes": "FrameX v15: v14 theme JSON compile repair, original draggable spring glass navigation, touch feedback and scrolling edge treatment in the main app shell. Existing editor and verified OTA preserved; true video backdrop refraction not included."
 }
