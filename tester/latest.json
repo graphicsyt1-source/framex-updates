@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 20,
-  "versionName": "0.20.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.20.0/FrameX_UIPolish_v20.apk",
-  "sha256": "da6d0b249e9ee53c398f8e512ffe4ba50542222dc88110dd2ea6e2b5364332e3",
-  "sizeBytes": 407651,
-  "notes": "FrameX v20: fixes floating navigation overlap, compact Creator Profile and canvas selectors, shorter feedback action, and editable automatic project names. Editor, project data and original OTA unchanged."
+  "versionCode": 21,
+  "versionName": "0.21.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.21.0/FrameX_UILayout_v21.apk",
+  "sha256": "4ae3f962cdfb3e98a67cca0ad378d687014361a986ad9277719fe6c63594a3e8",
+  "sizeBytes": 408539,
+  "notes": "FrameX v21: measured navigation safe area, more compact creator cards and canvas ratio selectors, editable FrameX Hype project titles. Original editor, projects and OTA preserved."
 }
