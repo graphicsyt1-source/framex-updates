@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 15,
-  "versionName": "0.15.0",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.15.0/FrameX_GlassMotion_v15.apk",
-  "sha256": "12fa438d3cb9bf26694e0975b3ef2a2a0d138ebad00ff1158cc9d9db2c18a838",
-  "sizeBytes": 492254,
-  "notes": "FrameX v15: v14 theme JSON compile repair, original draggable spring glass navigation, touch feedback and scrolling edge treatment in the main app shell. Existing editor and verified OTA preserved; true video backdrop refraction not included."
+  "versionCode": 16,
+  "versionName": "0.16.0",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.16.0/FrameX_GlassSlide_v16.apk",
+  "sha256": "8487545d1b96f7000af8b5bd6093f0a8c8b80b2c3b11230db98cbf5eed051abc",
+  "sizeBytes": 498372,
+  "notes": "FrameX v16: compact-on-scroll warm glass navigation, spring/drag improvements, 44dp targets and reduced-motion fallback. Original editor/OTA/project data unchanged; live video refraction not included."
 }
