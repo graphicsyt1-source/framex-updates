@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 22,
-  "versionName": "0.22.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.22.0/FrameX-v0.22.0-tester.apk",
-  "sha256": "6a31d36e742ff558a73f9d409cd63d4349e3229459f39f7588294442dd9d18a1",
-  "sizeBytes": 694541,
-  "notes": "Stable editor workspace, multitrack timeline, H.264/AAC MP4 export, and PNG frame export."
+  "versionCode": 23,
+  "versionName": "0.23.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.23.0/FrameX-v0.23.0-tester.apk",
+  "sha256": "b7cba83910c691dd164755a4a0f46df56bb783e8698805e71aa7cdadaffbab09",
+  "sizeBytes": 706454,
+  "notes": "Fractional frame rates, expandable timeline, layer copy and paste, source slip, and corrected MP4 orientation."
 }
