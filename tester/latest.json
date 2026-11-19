@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 23,
-  "versionName": "0.23.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.23.0/FrameX-v0.23.0-tester.apk",
-  "sha256": "b7cba83910c691dd164755a4a0f46df56bb783e8698805e71aa7cdadaffbab09",
-  "sizeBytes": 706454,
-  "notes": "Fractional frame rates, expandable timeline, layer copy and paste, source slip, and corrected MP4 orientation."
+  "versionCode": 25,
+  "versionName": "0.25.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.25.0/FrameX-v0.25.0-tester.apk",
+  "sha256": "0d8e25818ba166d82bdbda8b8b1f7d2e8f9f396c0ccd79d274a9227138072d2b",
+  "sizeBytes": 4223439,
+  "notes": "Choose Your Layouts, a searchable effect browser, new vector shapes, and an interactive easing graph."
 }
