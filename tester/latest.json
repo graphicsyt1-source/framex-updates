@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 21,
-  "versionName": "0.21.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.21.0/FrameX_UILayout_v21.apk",
-  "sha256": "4ae3f962cdfb3e98a67cca0ad378d687014361a986ad9277719fe6c63594a3e8",
-  "sizeBytes": 408539,
-  "notes": "FrameX v21: measured navigation safe area, more compact creator cards and canvas ratio selectors, editable FrameX Hype project titles. Original editor, projects and OTA preserved."
+  "versionCode": 22,
+  "versionName": "0.22.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.22.0/FrameX-v0.22.0-tester.apk",
+  "sha256": "6a31d36e742ff558a73f9d409cd63d4349e3229459f39f7588294442dd9d18a1",
+  "sizeBytes": 694541,
+  "notes": "Stable editor workspace, multitrack timeline, H.264/AAC MP4 export, and PNG frame export."
 }
