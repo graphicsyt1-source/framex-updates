@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 30,
-  "versionName": "0.30.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.30.0/FrameX-v0.30.0-tester.apk",
-  "sha256": "849be56fc296216084355e2741f250f53ce2c2e832c09f86546a9bfe87ede2c2",
-  "sizeBytes": 4441657,
-  "notes": "Forex Motion Classic workspace, original Directional Blur and Mosaic effects, animated effect controls, and shareable FrameX FX presets."
+  "versionCode": 31,
+  "versionName": "0.31.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.31.0/FrameX-v0.31.0-tester.apk",
+  "sha256": "500c1dd89a4b8fb498985c53585bc5b7277048b30997fa4827df30f30e558be8",
+  "sizeBytes": 4465117,
+  "notes": "Classic project-boundary playback, selected-layer tools, trim at playhead, quick keyframe controls, and original Posterize and Vignette effects."
 }
