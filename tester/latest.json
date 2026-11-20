@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 29,
-  "versionName": "0.29.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.29.0/FrameX-v0.29.0-tester.apk",
-  "sha256": "c56ef0a35b40495c9be2bc64251ba6287056ff75c4e63eb185276d7cbadaa357",
-  "sizeBytes": 4417852,
-  "notes": "Ultra trim and keyframe workspaces, FX favorites and comparisons, animated audio volume, wipe transitions, original editor icons, and safer simultaneous project reads and saves."
+  "versionCode": 30,
+  "versionName": "0.30.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.30.0/FrameX-v0.30.0-tester.apk",
+  "sha256": "849be56fc296216084355e2741f250f53ce2c2e832c09f86546a9bfe87ede2c2",
+  "sizeBytes": 4441657,
+  "notes": "Forex Motion Classic workspace, original Directional Blur and Mosaic effects, animated effect controls, and shareable FrameX FX presets."
 }
