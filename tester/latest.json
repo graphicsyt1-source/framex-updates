@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 25,
-  "versionName": "0.25.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.25.0/FrameX-v0.25.0-tester.apk",
-  "sha256": "0d8e25818ba166d82bdbda8b8b1f7d2e8f9f396c0ccd79d274a9227138072d2b",
-  "sizeBytes": 4223439,
-  "notes": "Choose Your Layouts, a searchable effect browser, new vector shapes, and an interactive easing graph."
+  "versionCode": 29,
+  "versionName": "0.29.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.29.0/FrameX-v0.29.0-tester.apk",
+  "sha256": "c56ef0a35b40495c9be2bc64251ba6287056ff75c4e63eb185276d7cbadaa357",
+  "sizeBytes": 4417852,
+  "notes": "Ultra trim and keyframe workspaces, FX favorites and comparisons, animated audio volume, wipe transitions, original editor icons, and safer simultaneous project reads and saves."
 }
