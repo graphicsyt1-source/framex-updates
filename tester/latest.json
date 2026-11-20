@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 32,
-  "versionName": "0.32.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.32.0/FrameX-v0.32.0-tester.apk",
-  "sha256": "2cb52f31b24ba05aefe259093b540bbe263c5abdf8f105b9e236dd2f8b851a5a",
-  "sizeBytes": 4116733,
-  "notes": "Centered Play and Pause in all six workspaces, independently scrollable transport controls, and centered fixed playheads in Ultra and Classic."
+  "versionCode": 33,
+  "versionName": "0.33.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.33.0/FrameX-v0.33.0-tester.apk",
+  "sha256": "9bd982c5d9618bfb903c87f226e90386c324c9d3e74ac6de8fbb697c8c81a167",
+  "sizeBytes": 4468150,
+  "notes": "Classic timeline with compact tracks, selectable layer badges, clip reorder grips, direct keyframe editing, and expanded trim tools."
 }
