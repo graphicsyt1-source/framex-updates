@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 36,
-  "versionName": "0.36.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.36.0/FrameX-v0.36.0-tester.apk",
-  "sha256": "5613d7f7232b8aacdf30a0b598505074390fbcf51622268b40aeb1de4587895e",
-  "sizeBytes": 4474433,
-  "notes": "Ultra and Liquid Glass enabled on first launch. Improved splash centering, titles, navigation labels and action sizing for narrow screens."
+  "versionCode": 37,
+  "versionName": "0.37.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.37.0/FrameX-v0.37.0-tester.apk",
+  "sha256": "b07180cbb112cfc5e9cc1a91bde7c9d1ccd5f57db4b55e50c1bef2a1b6820d9f",
+  "sizeBytes": 4133117,
+  "notes": "FrameX v37: transparent navigation glass, scroll-under navigation content, cached gradients, touch highlights and adaptive legibility; improved preview frame size and UI pacing. Mac build/unit/lint verified. Physical-device playback and Forex Motion FX parity remain unverified."
 }
