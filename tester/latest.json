@@ -1,10 +1,10 @@
 {
   "packageName": "com.framex.editor.ultra",
   "channel": "tester",
-  "versionCode": 35,
-  "versionName": "0.35.0-dev",
-  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.35.0/FrameX-v0.35.0-tester.apk",
-  "sha256": "4b19ee6183f5dcd2f802a31537941e428bcd741c94e558b441780cce6064fb1f",
-  "sizeBytes": 4473297,
-  "notes": "Live blurred and refracted navigation, translucent controls, and immediate destination changes with a brighter animated selection."
+  "versionCode": 36,
+  "versionName": "0.36.0-dev",
+  "apkUrl": "https://github.com/graphicsyt1-source/framex-updates/releases/download/v0.36.0/FrameX-v0.36.0-tester.apk",
+  "sha256": "5613d7f7232b8aacdf30a0b598505074390fbcf51622268b40aeb1de4587895e",
+  "sizeBytes": 4474433,
+  "notes": "Ultra and Liquid Glass enabled on first launch. Improved splash centering, titles, navigation labels and action sizing for narrow screens."
 }
